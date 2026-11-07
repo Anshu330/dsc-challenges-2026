@@ -1,0 +1,16 @@
+# Data Science Club (DSC KLE) — Sprint Challenges Requirements
+# Lightweight modern DS stack for local engineering sprints
+
+# Vectorized Math & Data Manipulation
+numpy>=1.24.0,<2.2.0
+pandas>=2.0.0,<2.3.0
+
+# Visualization & Storytelling
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Database & SQL
+sqlalchemy>=2.0.0
+
+# Automated Testing & Verification
+pytest>=7.4.0

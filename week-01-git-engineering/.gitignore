@@ -1,0 +1,11 @@
+# Week 1 Specific Gitignore
+.venv/
+venv/
+.env
+*.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+data/raw/*.csv
+data/raw/*.parquet
+!data/raw/.gitkeep
