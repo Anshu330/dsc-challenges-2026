@@ -1,7 +1,9 @@
 # 🐍 Week 0 Prep Bootcamp: Python Fundamentals (Zero to Data-Ready)
+> 📌 **Update**: Python Fundamentals has been merged with Git Engineering into **Week 1** (`week-01-git-engineering/`). You can work directly inside `week-01-git-engineering/` where `exercises.py` and `verify_submission.py` test all tasks!
+> 
 > **Track**: All Recruits New to Python (1st-Year Growth Track & 2nd-Year Credit Track)  
 > **Target Window**: Complete before **Week 2 (NumPy)** on Monday, November 23, 2026  
-> **Submission Platform**: DSC Nexus (`/modules` → Week 0 • Prep)
+> **Submission Platform**: DSC Nexus (`/modules` → Week 1)
 
 ---
 
