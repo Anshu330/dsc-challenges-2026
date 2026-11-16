@@ -9,6 +9,7 @@ This single repository is your **Data Science Portfolio** for the entire semeste
 
 ```
 dsc-challenges-2026/
+├── week-00-python-fundamentals/    ← Prep Bootcamp: Core Python, Loops, Dicts, I/O & OOP
 ├── week-01-git-engineering/        ← Sprint 1: Git CLI, Branches, Project Layout
 ├── week-02-numpy-vectorization/    ← Sprint 2: High-Performance Vectorized Math
 ├── week-03-pandas-data-wrangling/  ← Sprint 3: Memory Optimization & Dirty Data
