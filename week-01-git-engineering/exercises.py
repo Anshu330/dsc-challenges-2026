@@ -1,5 +1,5 @@
 
-"""Week 1: Python Fundamentals Bootcamp — Beginner Practice Tasks."""
+"""Week 1: Python Fundamentals Bootcamp."""
 
 import csv
 import json
@@ -30,9 +30,9 @@ def safe_parse_float(raw_value: Any, default: float = 0.0) -> float:
 def analyze_pod_scores(records: List[Tuple[str, str, float]]) -> Dict[str, Any]:
     unique_students = set(usn for usn, pod, score in records)
 
-    high_scorers = list(set(
+    high_scorers = [
         usn for usn, pod, score in records if score >= 80
-    ))
+    ]
 
     pod_names = set(pod for usn, pod, score in records)
 
